@@ -6,4 +6,4 @@ Dependecies:
   *matplotlib
   
 Instructions via terminal:
-  $ 'python3 mnist_numpy.py'
+  $ `python3 mnist_numpy.py`
